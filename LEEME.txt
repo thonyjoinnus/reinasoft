@@ -1,0 +1,11 @@
+REINASOFT SALÓN — versión HTML para probar
+
+1. Descomprime este ZIP en una carpeta de tu computadora.
+2. Haz doble clic en "ABRIR-AQUI.html" (o en "index.html").
+3. Se abre en Chrome y puedes navegar por todas las páginas.
+
+Notas:
+- Los botones de WhatsApp abren WhatsApp Web o la app con el mensaje listo.
+- Esta copia es solo para revisar. Para publicarla en internet se usa
+  el proyecto Astro (reinasoft-salon-web.zip), que genera la versión
+  final con el dominio real.
